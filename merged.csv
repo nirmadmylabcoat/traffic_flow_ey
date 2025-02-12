@@ -1,0 +1,241 @@
+Intersection,Hour,Vehicle_Type,Vehicle_Count,Green_Light_Duration,Red_Light_Duration
+Intersection_6,20,Car,357,100,98
+Intersection_1,4,Public Transport,308,107,87
+Intersection_4,16,Two-Wheeler,382,111,115
+Intersection_4,3,Company Bus,207,111,115
+Intersection_8,7,Public Transport,59,51,49
+Intersection_10,3,Company Bus,165,72,55
+Intersection_4,18,Public Transport,439,111,115
+Intersection_6,17,Car,166,100,98
+Intersection_3,1,Public Transport,231,43,119
+Intersection_5,18,Company Bus,285,56,85
+Intersection_8,17,Car,243,51,49
+Intersection_7,20,Public Transport,349,77,41
+Intersection_9,2,Two-Wheeler,129,50,41
+Intersection_9,5,Ride-Sharing,112,50,41
+Intersection_2,5,Public Transport,382,41,47
+Intersection_7,12,Two-Wheeler,97,77,41
+Intersection_8,12,Company Bus,126,51,49
+Intersection_8,21,Two-Wheeler,199,51,49
+Intersection_9,2,Ride-Sharing,170,50,41
+Intersection_2,15,Two-Wheeler,324,41,47
+Intersection_6,21,Public Transport,395,100,98
+Intersection_10,7,Two-Wheeler,63,72,55
+Intersection_9,7,Public Transport,272,50,41
+Intersection_10,11,Company Bus,142,72,55
+Intersection_5,22,Ride-Sharing,286,56,85
+Intersection_4,17,Two-Wheeler,155,111,115
+Intersection_1,6,Ride-Sharing,263,107,87
+Intersection_4,7,Two-Wheeler,56,111,115
+Intersection_6,18,Ride-Sharing,150,100,98
+Intersection_1,11,Two-Wheeler,98,107,87
+Intersection_3,19,Company Bus,90,43,119
+Intersection_4,17,Company Bus,460,111,115
+Intersection_9,9,Public Transport,208,50,41
+Intersection_2,14,Two-Wheeler,439,41,47
+Intersection_4,21,Company Bus,193,111,115
+Intersection_4,9,Company Bus,497,111,115
+Intersection_4,18,Ride-Sharing,87,111,115
+Intersection_8,0,Company Bus,109,51,49
+Intersection_1,9,Company Bus,163,107,87
+Intersection_2,11,Public Transport,145,41,47
+Intersection_10,17,Car,402,72,55
+Intersection_10,9,Ride-Sharing,258,72,55
+Intersection_1,0,Company Bus,338,107,87
+Intersection_5,22,Car,112,56,85
+Intersection_8,16,Car,444,51,49
+Intersection_4,10,Company Bus,446,111,115
+Intersection_3,4,Public Transport,143,43,119
+Intersection_8,20,Two-Wheeler,370,51,49
+Intersection_3,3,Public Transport,463,43,119
+Intersection_1,19,Company Bus,396,107,87
+Intersection_1,8,Ride-Sharing,200,107,87
+Intersection_5,14,Two-Wheeler,453,56,85
+Intersection_6,23,Two-Wheeler,439,100,98
+Intersection_6,0,Company Bus,342,100,98
+Intersection_7,19,Company Bus,133,77,41
+Intersection_9,8,Ride-Sharing,177,50,41
+Intersection_5,7,Public Transport,311,56,85
+Intersection_2,23,Ride-Sharing,398,41,47
+Intersection_5,13,Company Bus,204,56,85
+Intersection_10,17,Ride-Sharing,291,72,55
+Intersection_9,20,Company Bus,133,50,41
+Intersection_2,23,Two-Wheeler,446,41,47
+Intersection_2,0,Ride-Sharing,185,41,47
+Intersection_8,11,Car,230,51,49
+Intersection_10,4,Two-Wheeler,130,72,55
+Intersection_10,0,Car,463,72,55
+Intersection_4,10,Company Bus,50,111,115
+Intersection_7,14,Car,265,77,41
+Intersection_8,22,Public Transport,257,51,49
+Intersection_3,20,Company Bus,380,43,119
+Intersection_1,18,Car,302,107,87
+Intersection_4,4,Company Bus,181,111,115
+Intersection_6,22,Public Transport,111,100,98
+Intersection_10,3,Car,373,72,55
+Intersection_5,19,Car,194,56,85
+Intersection_5,7,Two-Wheeler,418,56,85
+Intersection_7,8,Car,134,77,41
+Intersection_5,13,Car,166,56,85
+Intersection_5,5,Company Bus,279,56,85
+Intersection_4,0,Public Transport,305,111,115
+Intersection_5,8,Ride-Sharing,362,56,85
+Intersection_5,15,Public Transport,368,56,85
+Intersection_9,15,Public Transport,490,50,41
+Intersection_5,21,Car,98,56,85
+Intersection_4,11,Ride-Sharing,195,111,115
+Intersection_8,4,Ride-Sharing,423,51,49
+Intersection_6,7,Public Transport,491,100,98
+Intersection_6,13,Company Bus,59,100,98
+Intersection_1,10,Ride-Sharing,240,107,87
+Intersection_2,20,Ride-Sharing,129,41,47
+Intersection_6,14,Public Transport,280,100,98
+Intersection_10,17,Two-Wheeler,256,72,55
+Intersection_4,19,Ride-Sharing,467,111,115
+Intersection_1,3,Public Transport,438,107,87
+Intersection_6,9,Two-Wheeler,450,100,98
+Intersection_1,18,Public Transport,278,107,87
+Intersection_2,21,Public Transport,377,41,47
+Intersection_3,2,Company Bus,368,43,119
+Intersection_5,19,Car,329,56,85
+Intersection_3,21,Two-Wheeler,397,43,119
+Intersection_1,11,Car,416,107,87
+Intersection_4,23,Two-Wheeler,57,111,115
+Intersection_3,18,Two-Wheeler,328,43,119
+Intersection_1,13,Ride-Sharing,404,107,87
+Intersection_8,23,Company Bus,208,51,49
+Intersection_6,1,Company Bus,296,100,98
+Intersection_10,6,Public Transport,130,72,55
+Intersection_1,10,Car,205,107,87
+Intersection_3,21,Public Transport,97,43,119
+Intersection_8,16,Company Bus,164,51,49
+Intersection_3,16,Public Transport,61,43,119
+Intersection_10,3,Company Bus,384,72,55
+Intersection_3,17,Company Bus,336,43,119
+Intersection_4,10,Two-Wheeler,140,111,115
+Intersection_4,9,Public Transport,340,111,115
+Intersection_3,12,Two-Wheeler,104,43,119
+Intersection_4,13,Public Transport,387,111,115
+Intersection_5,6,Company Bus,213,56,85
+Intersection_2,6,Company Bus,121,41,47
+Intersection_3,7,Ride-Sharing,415,43,119
+Intersection_10,8,Two-Wheeler,365,72,55
+Intersection_2,13,Car,162,41,47
+Intersection_5,7,Public Transport,471,56,85
+Intersection_7,16,Car,118,77,41
+Intersection_9,22,Ride-Sharing,487,50,41
+Intersection_3,15,Company Bus,63,43,119
+Intersection_4,8,Two-Wheeler,151,111,115
+Intersection_1,3,Car,325,107,87
+Intersection_1,6,Two-Wheeler,413,107,87
+Intersection_7,17,Company Bus,314,77,41
+Intersection_1,7,Two-Wheeler,402,107,87
+Intersection_7,20,Two-Wheeler,259,77,41
+Intersection_4,2,Public Transport,247,111,115
+Intersection_4,16,Car,430,111,115
+Intersection_9,18,Ride-Sharing,150,50,41
+Intersection_9,13,Two-Wheeler,435,50,41
+Intersection_9,23,Two-Wheeler,303,50,41
+Intersection_3,4,Ride-Sharing,207,43,119
+Intersection_4,4,Car,439,111,115
+Intersection_3,12,Company Bus,280,43,119
+Intersection_1,17,Public Transport,474,107,87
+Intersection_9,23,Ride-Sharing,200,50,41
+Intersection_9,22,Two-Wheeler,80,50,41
+Intersection_4,20,Company Bus,305,111,115
+Intersection_9,1,Public Transport,69,50,41
+Intersection_3,5,Ride-Sharing,310,43,119
+Intersection_9,23,Two-Wheeler,198,50,41
+Intersection_5,1,Car,412,56,85
+Intersection_4,19,Ride-Sharing,124,111,115
+Intersection_1,21,Two-Wheeler,173,107,87
+Intersection_5,23,Company Bus,264,56,85
+Intersection_4,19,Ride-Sharing,366,111,115
+Intersection_7,22,Public Transport,279,77,41
+Intersection_10,22,Car,300,72,55
+Intersection_9,7,Ride-Sharing,143,50,41
+Intersection_1,9,Ride-Sharing,219,107,87
+Intersection_9,17,Car,90,50,41
+Intersection_6,9,Company Bus,238,100,98
+Intersection_10,22,Public Transport,259,72,55
+Intersection_1,0,Two-Wheeler,229,107,87
+Intersection_10,19,Company Bus,346,72,55
+Intersection_7,4,Two-Wheeler,109,77,41
+Intersection_6,17,Public Transport,79,100,98
+Intersection_4,20,Company Bus,275,111,115
+Intersection_2,21,Ride-Sharing,144,41,47
+Intersection_9,16,Company Bus,288,50,41
+Intersection_1,3,Two-Wheeler,215,107,87
+Intersection_5,10,Ride-Sharing,432,56,85
+Intersection_10,1,Car,266,72,55
+Intersection_7,20,Company Bus,322,77,41
+Intersection_6,4,Company Bus,405,100,98
+Intersection_8,4,Ride-Sharing,217,51,49
+Intersection_9,16,Company Bus,207,50,41
+Intersection_9,16,Ride-Sharing,115,50,41
+Intersection_10,15,Car,329,72,55
+Intersection_3,10,Company Bus,250,43,119
+Intersection_9,13,Two-Wheeler,434,50,41
+Intersection_7,8,Company Bus,137,77,41
+Intersection_7,11,Ride-Sharing,343,77,41
+Intersection_10,20,Ride-Sharing,417,72,55
+Intersection_2,6,Two-Wheeler,497,41,47
+Intersection_7,9,Two-Wheeler,460,77,41
+Intersection_9,15,Ride-Sharing,267,50,41
+Intersection_9,3,Ride-Sharing,395,50,41
+Intersection_4,19,Company Bus,184,111,115
+Intersection_3,12,Ride-Sharing,266,43,119
+Intersection_4,18,Two-Wheeler,151,111,115
+Intersection_7,17,Company Bus,347,77,41
+Intersection_4,10,Ride-Sharing,451,111,115
+Intersection_7,2,Car,418,77,41
+Intersection_6,1,Two-Wheeler,93,100,98
+Intersection_8,11,Car,160,51,49
+Intersection_1,3,Company Bus,424,107,87
+Intersection_9,12,Two-Wheeler,453,50,41
+Intersection_5,4,Company Bus,289,56,85
+Intersection_7,1,Public Transport,328,77,41
+Intersection_6,17,Two-Wheeler,415,100,98
+Intersection_9,0,Company Bus,445,50,41
+Intersection_3,7,Car,61,43,119
+Intersection_4,4,Company Bus,467,111,115
+Intersection_10,3,Ride-Sharing,441,72,55
+Intersection_8,5,Ride-Sharing,169,51,49
+Intersection_6,6,Car,332,100,98
+Intersection_4,3,Company Bus,98,111,115
+Intersection_5,2,Two-Wheeler,249,56,85
+Intersection_6,8,Car,289,100,98
+Intersection_4,1,Company Bus,232,111,115
+Intersection_4,4,Public Transport,146,111,115
+Intersection_8,0,Ride-Sharing,406,51,49
+Intersection_10,13,Car,388,72,55
+Intersection_10,19,Company Bus,137,72,55
+Intersection_10,9,Public Transport,455,72,55
+Intersection_8,21,Ride-Sharing,52,51,49
+Intersection_4,5,Public Transport,314,111,115
+Intersection_3,1,Car,316,43,119
+Intersection_4,7,Company Bus,311,111,115
+Intersection_10,8,Public Transport,344,72,55
+Intersection_8,22,Public Transport,472,51,49
+Intersection_8,20,Public Transport,150,51,49
+Intersection_6,7,Two-Wheeler,499,100,98
+Intersection_2,3,Public Transport,167,41,47
+Intersection_3,21,Company Bus,109,43,119
+Intersection_3,12,Company Bus,214,43,119
+Intersection_9,3,Company Bus,439,50,41
+Intersection_2,6,Ride-Sharing,311,41,47
+Intersection_6,20,Public Transport,88,100,98
+Intersection_9,7,Car,213,50,41
+Intersection_5,19,Ride-Sharing,138,56,85
+Intersection_1,0,Two-Wheeler,483,107,87
+Intersection_3,5,Company Bus,257,43,119
+Intersection_6,11,Two-Wheeler,390,100,98
+Intersection_6,9,Ride-Sharing,420,100,98
+Intersection_1,19,Two-Wheeler,315,107,87
+Intersection_9,7,Ride-Sharing,182,50,41
+Intersection_2,21,Two-Wheeler,483,41,47
+Intersection_2,5,Company Bus,74,41,47
+Intersection_1,8,Public Transport,144,107,87
+Intersection_4,11,Company Bus,436,111,115
+Intersection_9,14,Company Bus,389,50,41
+Intersection_9,0,Company Bus,437,50,41
